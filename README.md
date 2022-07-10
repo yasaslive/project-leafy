@@ -4,9 +4,13 @@
 
 ### Currently available data
 
-*Azadirachta indica*  කොහොඹ (SI), வேம்பு (TA), Neem(EN) - 2362x748 500 JPEG Images. [Click here](https://1drv.ms/u/s!Asqa_dm6rYv1bxZu9Tu4Hmm1iLs?e=X7M5hQ)
+*Azadirachta indica*  කොහොඹ (SI), வேம்பு (TA), Neem (EN) - 2362x748 500 JPEG Images. [Click here](https://1drv.ms/u/s!Asqa_dm6rYv1bxZu9Tu4Hmm1iLs?e=X7M5hQ)
 
 ![Azadirachta indica](img/Azadirachta%20indica.jpg)
+
+*Syzygium aromaticum* කරාබු (SI), கிராம்பு (TA), Clove (EN) - 2362x960 1001 JPEG Images. [Click here](https://1drv.ms/u/s!Asqa_dm6rYv1iQ-Q4vpSS25sDzfe?e=nNxzOs)
+
+![Syzygium aromaticum](img/Syzygium%20aromaticum.jpg)
 
 ### Image capture method 
 
